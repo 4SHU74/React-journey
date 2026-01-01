@@ -1,7 +1,7 @@
 function Head() {
   return (
     <header>
-      <h1>My website</h1>
+      <h2>Ashura-Hub</h2>
       <nav>
         <ul>
           <li>

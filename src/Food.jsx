@@ -3,11 +3,11 @@ function Food() {
   const food2 = `galric`;
 
   return (
-    <ul>
+    <ol>
       <li>Apple</li>
       <li>{food1}</li>
       <li>{food2.toUpperCase()}</li>
-    </ul>
+    </ol>
   );
 }
 
